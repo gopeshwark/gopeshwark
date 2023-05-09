@@ -1,10 +1,10 @@
 <h1 align="center">Hey there 👋 I am Gopeshwar Kumawat</h1>
 
-- 🔭 Currently working as Associate Consultant at **<a href="https://home.kpmg/xx/en/home.html">KPMG India</a>**
+- 🔭 Currently working as Senior Software Engineer at **<a href="https://www.xoriant.com/">Xoriant</a>**
 - 🚀 Currently mastering the art of Javascript and React JS.
 - 👯 I’m looking for opportunities where I can learn and build **Amazing Scalable Products**
 - 🛠 Trying to get my hands on Public Cloud & Devops.
-- ⚡ Fun fact: I love playing video games and watching movies ❤️
+- ⚡ Fun fact: I love watching movies ❤️
 
 ## 🔧 Tools & Stack
 <p>
