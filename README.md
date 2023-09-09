@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopeshwark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=151515&langs_count=3" />
 </a>
 <a href="https://github.com/gopeshwark/gopeshwark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopeshwark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=151515" alt="Apurva's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopeshwark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=151515" alt="Gopeshwar's GitHub Stats" />
 </a>
 </div>
 &nbsp;
