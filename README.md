@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I am Gopeshwar Kumawat</h1>
 
-- 🔭 Currently working as Senior Software Engineer at **<a href="https://www.xoriant.com/">Xoriant</a>**
+- 🔭 Currently working as Senior Engineering Lead at **<a href="https://www.persistent.com/">Persistent Systems</a>**
 - 🚀 Currently mastering the art of Javascript and React JS.
 - 👯 I’m looking for opportunities where I can learn and build **Amazing Scalable Products**
 - 🛠 Trying to get my hands on Angular, Public Cloud & Devops.
