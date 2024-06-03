@@ -14,7 +14,7 @@
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/typescript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="50" height="50"/>       
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firebase/firebase-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="50" height="50"/>
