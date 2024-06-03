@@ -3,7 +3,7 @@
 - 🔭 Currently working as Senior Engineering Lead at **<a href="https://www.persistent.com/">Persistent Systems</a>**
 - 🚀 Currently mastering the art of Javascript and React JS.
 - 👯 I’m looking for opportunities where I can learn and build **Amazing Scalable Products**
-- 🛠 Trying to get my hands on Angular, Public Cloud & Devops.
+- 🛠 Trying to get my hands on Java, Angular, Public Cloud & Devops.
 - ⚡ Fun fact: I love watching movies ❤️
 
 ## 🔧 Tools & Stack
